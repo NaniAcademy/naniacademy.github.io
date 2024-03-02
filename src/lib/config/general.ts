@@ -8,46 +8,6 @@ export const theme: ThemeConfig = [
   {
     name: 'dracula',
     text: '🧛 Dark'
-  },
-  {
-    name: 'valentine',
-    text: '🌸 Valentine'
-  },
-  {
-    name: 'aqua',
-    text: '💦 Aqua'
-  },
-  {
-    name: 'synthwave',
-    text: '🌃 Synthwave'
-  },
-  {
-    name: 'night',
-    text: '🌃 Night'
-  },
-  {
-    name: 'lofi',
-    text: '🎶 Lo-Fi'
-  },
-  {
-    name: 'lemonade',
-    text: '🍋 Lemonade'
-  },
-  {
-    name: 'cupcake',
-    text: '🧁 Cupcake'
-  },
-  {
-    name: 'garden',
-    text: '🏡 Garden'
-  },
-  {
-    name: 'retro',
-    text: '🌇 Retro'
-  },
-  {
-    name: 'black',
-    text: '🖤 Black'
   }
 ]
 
@@ -82,7 +42,7 @@ export const footer: FooterConfig = {
 export const date: DateConfig = {
   locales: 'en-US',
   options: {
-    year: '2-digit',
+    year: '4-digit',
     weekday: 'long',
     month: 'short',
     day: 'numeric'
