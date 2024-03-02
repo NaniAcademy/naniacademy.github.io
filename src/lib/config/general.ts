@@ -17,11 +17,11 @@ export const header: HeaderConfig = {
   nav: [
     {
       text: 'Get Started',
-      link: '/hello-world'
+      link: '/blog-site/hello-world'
     },
     {
       text: 'Elements',
-      link: '/hello-world/elements'
+      link: '/blog-site/hello-world/elements'
     }
   ]
 }
@@ -30,11 +30,11 @@ export const footer: FooterConfig = {
   nav: [
     {
       text: 'Feed',
-      link: '/atom.xml'
+      link: '/blog-site/atom.xml'
     },
     {
       text: 'Sitemap',
-      link: '/sitemap.xml'
+      link: '/blog-site/sitemap.xml'
     }
   ]
 }
@@ -42,7 +42,7 @@ export const footer: FooterConfig = {
 export const date: DateConfig = {
   locales: 'en-US',
   options: {
-    year: '2-digit',
+    year: 'numeric',
     weekday: 'long',
     month: 'short',
     day: 'numeric'
