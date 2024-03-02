@@ -2,24 +2,24 @@ import type { ThemeConfig, HeadConfig, HeaderConfig, FooterConfig, DateConfig, F
 
 export const theme: ThemeConfig = [
   {
-    name: 'cmyk',
-    text: '🖨 Light'
-  },
-  {
     name: 'dracula',
     text: '🧛 Dark'
+  },
+  {
+    name: 'cmyk',
+    text: '🖨 Light'
   }
 ]
 
 export const head: HeadConfig = {}
 
 export const header: HeaderConfig = {
-    nav: [
-        {
-            text: 'GitHub',
-            link: 'https://github.com/NaniAcademy'
-        },
-    ]
+  nav: [
+    {
+      text: 'GitHub',
+      ink: 'https://github.com/NaniAcademy'
+    },
+  ]
 }
 
 export const footer: FooterConfig = {
