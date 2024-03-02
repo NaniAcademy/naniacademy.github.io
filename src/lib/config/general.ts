@@ -17,11 +17,11 @@ export const header: HeaderConfig = {
   nav: [
     {
       text: 'Get Started',
-      link: '/blog-site/hello-world'
+      link: '/hello-world'
     },
     {
       text: 'Elements',
-      link: '/blog-site/hello-world/elements'
+      link: '/hello-world/elements'
     }
   ]
 }
@@ -30,11 +30,11 @@ export const footer: FooterConfig = {
   nav: [
     {
       text: 'Feed',
-      link: '/blog-site/atom.xml'
+      link: '/atom.xml'
     },
     {
       text: 'Sitemap',
-      link: '/blog-site/sitemap.xml'
+      link: '/sitemap.xml'
     }
   ]
 }
