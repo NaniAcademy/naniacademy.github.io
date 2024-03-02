@@ -1,9 +1,9 @@
 {
-  "name": "Urara",
-  "short_name": "Urara",
+  "name": "NaniAcademy",
+  "short_name": "NaniAcademy",
   "lang": "en-US",
-  "description": "Powered by SvelteKit/Urara",
-  "id": "https://urara-demo.netlify.app/",
+  "description": "This blog is all about explaining programming concepts by narrating the code written.",
+  "id": "https://naniacademy.github.io/",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
@@ -12,25 +12,25 @@
   "theme_color": "#3D4451",
   "icons": [
     {
-      "src": "https://urara-demo.netlify.app/assets/any@192.png",
+      "src": "https://naniacademy.github.io/assets/any@192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://urara-demo.netlify.app/assets/any@512.png",
+      "src": "https://naniacademy.github.io/assets/any@512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://urara-demo.netlify.app/assets/maskable@192.png",
+      "src": "https://naniacademy.github.io/assets/maskable@192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "https://urara-demo.netlify.app/assets/maskable@512.png",
+      "src": "https://naniacademy.github.io/assets/maskable@512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
