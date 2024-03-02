@@ -2,7 +2,7 @@ import type { SiteConfig } from '$lib/types/site'
 
 export const site: SiteConfig = {
   protocol: 'https://',
-  domain: 'naniacademy.github.io/blog-site',
+  domain: 'naniacademy.github.io',
   title: 'NaniAcademy',
   subtitle: 'If Apps Can Speak',
   lang: 'en-US',
