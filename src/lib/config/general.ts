@@ -14,16 +14,12 @@ export const theme: ThemeConfig = [
 export const head: HeadConfig = {}
 
 export const header: HeaderConfig = {
-  nav: [
-    {
-      text: 'Get Started',
-      link: '/hello-world'
-    },
-    {
-      text: 'Elements',
-      link: '/hello-world/elements'
-    }
-  ]
+    nav: [
+        {
+            text: 'GitHub',
+            link: 'https://github.com/NaniAcademy'
+        },
+    ]
 }
 
 export const footer: FooterConfig = {
@@ -35,6 +31,10 @@ export const footer: FooterConfig = {
     {
       text: 'Sitemap',
       link: '/sitemap.xml'
+    },
+    {
+      text: "Source Code",
+      link: "https://github.com/NaniAcademy/naniacademy.github.io"
     }
   ]
 }

@@ -11,7 +11,13 @@ export const site: SiteConfig = {
     avatar: '/assets/maskable@512.png',
     name: 'Durga Prasad',
     status: '🌸',
-    bio: 'Passionate Software Engineer'
+    bio: 'Passionate Software Engineer',
+    metadata: [
+      {
+        icon: "i-simple-icons-github",
+        link: "https://github.com/DurgaPrasadReddyV",
+      }
+    ]
   },
   themeColor: '#3D4451'
 }

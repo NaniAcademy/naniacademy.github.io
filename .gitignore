@@ -4,6 +4,8 @@ static
 .svelte-kit
 .netlify
 .vercel
+.vscode
+.vs
 
 # dependencies
 node_modules
