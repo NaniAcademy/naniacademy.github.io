@@ -8,7 +8,7 @@ export const site: SiteConfig = {
   lang: 'en-US',
   description: 'This blog is all about explaining programming concepts by narrating the code written.',
   author: {
-    avatar: '/assets/maskable@512.png',
+    avatar: '/assets/avatar.png',
     name: 'Durga Prasad',
     bio: 'Passionate Software Engineer',
     metadata: [
