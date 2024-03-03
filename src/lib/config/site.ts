@@ -10,7 +10,6 @@ export const site: SiteConfig = {
   author: {
     avatar: '/assets/maskable@512.png',
     name: 'Durga Prasad',
-    status: '🌸',
     bio: 'Passionate Software Engineer',
     metadata: [
       {
